@@ -8,8 +8,6 @@
 name: lenovo-y1
 
 on:
-#  schedule:
-#    - cron: 0 20 * * *
   push:
     branches: 
       - master
