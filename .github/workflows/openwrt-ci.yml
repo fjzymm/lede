@@ -7,7 +7,7 @@
 #
 name: lenovo-y1
 
-#on:
+on:
 #  schedule:
 #    - cron: 0 20 * * *
   push:
